@@ -1,0 +1,106 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"ERROR","Thread-579331","10/05/2020","13:35:12","","mail;Could not connect to SMTP host: mail.ioio.com, port: 25;lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+"
+"ERROR","Thread-579452","10/05/2020","13:40:12","","mail;Could not connect to SMTP host: mail.ioio.com, port: 25;lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+"
+"ERROR","Thread-580638","10/05/2020","14:40:12","","mail;Could not connect to SMTP host: mail.ioio.com, port: 25;lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+"
+"ERROR","Thread-608992","10/06/2020","14:40:13","","mail;Could not connect to SMTP host: mail.ioio.com, port: 25;lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+"
+"ERROR","Thread-636538","10/07/2020","14:40:13","","mail;Could not connect to SMTP host: mail.ioio.com, port: 25;lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+"

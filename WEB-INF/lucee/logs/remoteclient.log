@@ -1,0 +1,433 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"INFO","Thread-20188","02/26/2020","14:50:50","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-20188","02/26/2020","14:50:50","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-207984","03/02/2020","13:38:20","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-207984","03/02/2020","13:38:20","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-69110","05/03/2020","15:08:51","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-69110","05/03/2020","15:08:51","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-69127","05/03/2020","15:09:15","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-69127","05/03/2020","15:09:15","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-74554","05/03/2020","20:57:19","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-74554","05/03/2020","20:57:19","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-74968","05/03/2020","21:24:09","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-74968","05/03/2020","21:24:09","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-75235","05/03/2020","21:40:31","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-75235","05/03/2020","21:40:31","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-75324","05/03/2020","21:45:49","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-75324","05/03/2020","21:45:49","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-75404","05/03/2020","21:50:00","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-75404","05/03/2020","21:50:00","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-96037","05/04/2020","20:09:40","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-96037","05/04/2020","20:09:40","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-96117","05/04/2020","20:13:55","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96117","05/04/2020","20:13:55","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96288","05/04/2020","20:24:11","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96288","05/04/2020","20:24:11","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96344","05/04/2020","20:26:59","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96344","05/04/2020","20:27:00","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96366","05/04/2020","20:27:48","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96366","05/04/2020","20:27:48","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96527","05/04/2020","20:37:13","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96527","05/04/2020","20:37:14","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96564","05/04/2020","20:38:55","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96564","05/04/2020","20:38:56","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96769","05/04/2020","20:51:28","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-96769","05/04/2020","20:51:29","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-96826","05/04/2020","20:54:25","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-96826","05/04/2020","20:54:25","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-96995","05/04/2020","21:04:15","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-96995","05/04/2020","21:04:16","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-98855","05/04/2020","23:06:51","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-98855","05/04/2020","23:06:51","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-118395","05/05/2020","20:13:54","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-118395","05/05/2020","20:13:54","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-118441","05/05/2020","20:16:12","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-118441","05/05/2020","20:16:12","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134175","05/06/2020","13:19:16","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134175","05/06/2020","13:19:16","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134198","05/06/2020","13:20:35","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134198","05/06/2020","13:20:35","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134237","05/06/2020","13:22:25","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-134237","05/06/2020","13:22:25","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-134272","05/06/2020","13:23:54","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134273","05/06/2020","13:23:54","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134272","05/06/2020","13:23:54","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134273","05/06/2020","13:23:54","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134312","05/06/2020","13:25:27","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134312","05/06/2020","13:25:27","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134385","05/06/2020","13:29:31","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134385","05/06/2020","13:29:31","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134552","05/06/2020","13:38:39","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134552","05/06/2020","13:38:39","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134580","05/06/2020","13:39:56","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134580","05/06/2020","13:39:56","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134624","05/06/2020","13:41:32","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134624","05/06/2020","13:41:32","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-134677","05/06/2020","13:44:09","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-134677","05/06/2020","13:44:09","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-22925","05/08/2020","08:36:19","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-22925","05/08/2020","08:36:25","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-28637","05/08/2020","14:43:53","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-28637","05/08/2020","14:43:58","remote-client","sucessfully executed: Change CharityMatch Password"
+"INFO","Thread-579331","10/05/2020","13:35:12","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"ERROR","Thread-579331","10/05/2020","13:35:12","remote-client","failed to execute: Confirm CharityMatch Sign Up;mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0;lucee.runtime.exp.NativeException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: lucee.runtime.net.mail.MailException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	... 4 more
+"
+"INFO","Thread-579348","10/05/2020","13:36:03","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-579348","10/05/2020","13:36:03","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"INFO","Thread-579452","10/05/2020","13:40:12","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"ERROR","Thread-579452","10/05/2020","13:40:12","remote-client","failed to execute: Confirm CharityMatch Sign Up;mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0;lucee.runtime.exp.NativeException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: lucee.runtime.net.mail.MailException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	... 4 more
+"
+"INFO","Thread-580638","10/05/2020","14:40:12","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"ERROR","Thread-580638","10/05/2020","14:40:12","remote-client","failed to execute: Confirm CharityMatch Sign Up;mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0;lucee.runtime.exp.NativeException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: lucee.runtime.net.mail.MailException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	... 4 more
+"
+"INFO","Thread-608992","10/06/2020","14:40:13","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"ERROR","Thread-608992","10/06/2020","14:40:13","remote-client","failed to execute: Confirm CharityMatch Sign Up;mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0;lucee.runtime.exp.NativeException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: lucee.runtime.net.mail.MailException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	... 4 more
+"
+"INFO","Thread-636538","10/07/2020","14:40:13","remote-client","sucessfully executed: Confirm CharityMatch Sign Up"
+"ERROR","Thread-636538","10/07/2020","14:40:13","remote-client","failed to execute: Confirm CharityMatch Sign Up;mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0;lucee.runtime.exp.NativeException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: lucee.runtime.net.mail.MailException: mail.ioio.com Could not connect to SMTP host: mail.ioio.com, port: 25
+lucee.runtime.exp.NativeException: Could not connect to SMTP host: mail.ioio.com, port: 25
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1961)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:654)
+	at javax.mail.Service.connect(Service.java:295)
+	at lucee.runtime.net.smtp.SMTPSender.run(SMTPSender.java:61)
+Caused by: javax.mail.MessagingException: Could not connect to SMTP host: mail.ioio.com, port: 25;
+  nested exception is:
+	java.net.ConnectException: Connection refused
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:319)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:237)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1927)
+	... 3 more
+:0
+	... 4 more
+"
